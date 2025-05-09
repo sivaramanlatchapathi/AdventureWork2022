@@ -1,0 +1,15 @@
+LocationID,Name,CostRate,Availability,ModifiedDate
+1,Tool Crib,0.00,0.00,Apr 30 2008 12:00AM
+2,Sheet Metal Racks,0.00,0.00,Apr 30 2008 12:00AM
+3,Paint Shop,0.00,0.00,Apr 30 2008 12:00AM
+4,Paint Storage,0.00,0.00,Apr 30 2008 12:00AM
+5,Metal Storage,0.00,0.00,Apr 30 2008 12:00AM
+6,Miscellaneous Storage,0.00,0.00,Apr 30 2008 12:00AM
+7,Finished Goods Storage,0.00,0.00,Apr 30 2008 12:00AM
+10,Frame Forming,22.50,96.00,Apr 30 2008 12:00AM
+20,Frame Welding,25.00,108.00,Apr 30 2008 12:00AM
+30,Debur and Polish,14.50,120.00,Apr 30 2008 12:00AM
+40,Paint,15.75,120.00,Apr 30 2008 12:00AM
+45,Specialized Paint,18.00,80.00,Apr 30 2008 12:00AM
+50,Subassembly,12.25,120.00,Apr 30 2008 12:00AM
+60,Final Assembly,12.25,120.00,Apr 30 2008 12:00AM
